@@ -34,4 +34,14 @@ pycharm, jupyter notebook, Tapleau 2020.3
 ### 구현 결과 
 
 
-- 
+- 오늘의 대시보드 
+
+
+![그림1](https://user-images.githubusercontent.com/72773190/100221266-c7782000-2f5b-11eb-9a3e-953ef17c3e7e.png)
+
+
+- 내일의 대시보드
+
+
+![그림2](https://user-images.githubusercontent.com/72773190/100221275-ca731080-2f5b-11eb-913c-662066961598.png)
+
