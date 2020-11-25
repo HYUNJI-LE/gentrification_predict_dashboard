@@ -28,7 +28,7 @@ python
 
 ### 사용 툴 
 
-pycharm, jupyter notebook, Tapleau 2020.3
+pycharm, jupyter notebook, Taleau 2020.3
 
 
 ### 구현 결과 
